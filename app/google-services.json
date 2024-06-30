@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "233662040742",
+    "firebase_url": "https://book-app-kotlin-bda13-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "book-app-kotlin-bda13",
+    "storage_bucket": "book-app-kotlin-bda13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233662040742:android:d37924aeaa8212e6c00267",
+        "android_client_info": {
+          "package_name": "com.example.booksapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8YU9RYGiNfEU5Pw8xHjyfEtV0tcbc4p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
